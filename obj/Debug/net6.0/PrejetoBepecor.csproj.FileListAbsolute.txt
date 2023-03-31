@@ -1,0 +1,15 @@
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\PrejetoBepecor\bin\Debug\net6.0\PrejetoBepecor.exe
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\PrejetoBepecor\bin\Debug\net6.0\PrejetoBepecor.deps.json
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\PrejetoBepecor\bin\Debug\net6.0\PrejetoBepecor.runtimeconfig.json
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\PrejetoBepecor\bin\Debug\net6.0\PrejetoBepecor.dll
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\PrejetoBepecor\bin\Debug\net6.0\PrejetoBepecor.pdb
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\PrejetoBepecor\obj\Debug\net6.0\PrejetoBepecor.csproj.AssemblyReference.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\PrejetoBepecor\obj\Debug\net6.0\PrejetoBepecor.GeneratedMSBuildEditorConfig.editorconfig
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\PrejetoBepecor\obj\Debug\net6.0\PrejetoBepecor.AssemblyInfoInputs.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\PrejetoBepecor\obj\Debug\net6.0\PrejetoBepecor.AssemblyInfo.cs
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\PrejetoBepecor\obj\Debug\net6.0\PrejetoBepecor.csproj.CoreCompileInputs.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\PrejetoBepecor\obj\Debug\net6.0\PrejetoBepecor.dll
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\PrejetoBepecor\obj\Debug\net6.0\refint\PrejetoBepecor.dll
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\PrejetoBepecor\obj\Debug\net6.0\PrejetoBepecor.pdb
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\PrejetoBepecor\obj\Debug\net6.0\PrejetoBepecor.genruntimeconfig.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\PrejetoBepecor\obj\Debug\net6.0\ref\PrejetoBepecor.dll
